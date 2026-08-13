@@ -1,5 +1,5 @@
-# NariPrenaur (Women who master hackathon X Logitech )
-# 🌸 NariPreneur
+
+# 🌸 NariPreneur (Women who master hackathon X Logitech )
 
 ### From Local Skills to Better Business Decisions
 
