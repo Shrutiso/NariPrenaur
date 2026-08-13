@@ -198,9 +198,8 @@ The AI can assist with:
 
 ## 🧠 AI Model
 
-**Model Used:** `ADD THE EXACT MODEL NAME USED IN YOUR PARTYROCK APP`
+**Model Used:** `Claude haiku , Gemini Flash pro`
 
-> Replace the above with the exact model selected in your AWS PartyRock application.
 
 The hackathon submission requires the GenAI model/service used by the solution to be identified, but the submitted presentation does not specify the exact model name.
 
