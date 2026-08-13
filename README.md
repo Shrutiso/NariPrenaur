@@ -226,7 +226,7 @@ https://partyrock.aws/u/shrutisom/Kzruvlrzg/Nari
 | ------------------ | -------------------- |
 | Generative AI      | GenAI                |
 | AI Platform        | AWS PartyRock        |
-| AI Model           | `[Exact Model Name]` |
+| AI Model           | Claude Haiku , Gemini|
 | Prompt Engineering | Custom prompts       |
 | Prototype          | AWS PartyRock        |
 | Version Control    | Git / GitHub         |
