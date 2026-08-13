@@ -1,5 +1,6 @@
 
 # 🌸 NariPreneur (Women who master hackathon X Logitech )
+# https://partyrock.aws/u/shrutisom/Kzruvlrzg/Nari (live link)
 
 ### From Local Skills to Better Business Decisions
 
