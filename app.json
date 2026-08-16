@@ -1,0 +1,335 @@
+{
+    "widgets": [
+        {
+            "x": 6,
+            "y": 0,
+            "type": "static-text",
+            "title": "NariPreneur",
+            "width": 6,
+            "height": 6,
+            "content": "# NariPreneur\n### From Local Skills to Better Business Decisions\n*अपने हुनर से बेहतर कारोबार की ओर*\n\n---\n\n &nbsp; Fill in your details below &nbsp;|&nbsp; नीचे अपनी जानकारी भरें\n\n &nbsp; Get your free AI business analysis &nbsp;|&nbsp; अपना मुफ़्त AI विश्लेषण पाएं\n\n &nbsp; Know your next business step &nbsp;|&nbsp; अगला सही कदम जानें\n\n---\n📱 *Tip: Use the mic 🎤 on your phone keyboard to speak your answers in Hindi!*\n*अपने फ़ोन के कीबोर्ड पर माइक 🎤 दबाकर हिंदी में बोलकर जवाब दें!*"
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "type": "static-text",
+            "title": "About You ",
+            "width": 6,
+            "height": 2,
+            "content": "---\n## 👤 Step 1 of 4 &nbsp;|&nbsp; चरण 1\n# About You / अपने बारे में बताएं\n*Tell us who you are — यह जानकारी ज़रूरी है*\n\n---"
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "type": "static-text",
+            "title": "Your Business",
+            "width": 6,
+            "height": 2,
+            "content": "---\n## 💼 Step 2 of 4 &nbsp;|&nbsp; चरण 2\n# Your Business / आपका कारोबार\n*Tell us about your work — आप क्या बनाती या बेचती हैं?*\n\n---"
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "type": "text-input",
+            "title": "Current Customers / ग्राहक",
+            "width": 6,
+            "height": 2,
+            "placeholder": "Who buys from you now? / अभी आपके ग्राहक कौन हैं?"
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "type": "text-input",
+            "title": "Name / नाम",
+            "width": 3,
+            "height": 2,
+            "placeholder": "Your name / अपना नाम लिखें"
+        },
+        {
+            "x": 6,
+            "y": 12,
+            "type": "text-input",
+            "title": "Current Production / उत्पादन",
+            "width": 6,
+            "height": 2,
+            "placeholder": "How much do you make? / आप अभी कितना बनाती हैं?  जैसे: हर हफ्ते 50 पैकेट"
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "type": "text-input",
+            "title": "Age / उम्र",
+            "width": 3,
+            "height": 2,
+            "placeholder": "Your age / अपनी उम्र लिखें"
+        },
+        {
+            "x": 6,
+            "y": 10,
+            "type": "text-input",
+            "title": "Experience / अनुभव",
+            "width": 6,
+            "height": 2,
+            "placeholder": "How long have you done this work?/आपका अनुभव?"
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "type": "text-input",
+            "title": "Location / स्थान 📍",
+            "width": 6,
+            "height": 2,
+            "placeholder": "Your village, district, state / अपने गाँव, ज़िला और राज्य का नाम लिखें"
+        },
+        {
+            "x": 0,
+            "y": 14,
+            "type": "select",
+            "title": "Business Goal / कारोबार का लक्ष्य",
+            "width": 6,
+            "height": 2,
+            "options": [
+                "Sell more in my village",
+                "Reach nearby town customers",
+                "Supply local retailers",
+                "Work through my SHG/group",
+                "Sell through WhatsApp",
+                "Sell online",
+                "Increase my income",
+                "I am not sure yet",
+                "गाँव में ज्यादा सामान बेचना",
+                "पास के शहर में ग्राहक बनाना",
+                "स्थानीय दुकानों पर सामान बेचना",
+                "अपने स्वयं सहायता समूह (SHG) के साथ काम करना",
+                "व्हाट्सऐप के जरिए सामान बेचना",
+                "ऑनलाइन सामान बेचना",
+                "अपनी कमाई बढ़ाना",
+                "अभी तय नहीं किया है"
+            ],
+            "isOptional": true,
+            "defaultValue": "अभी तय नहीं किया है"
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "type": "text-input",
+            "title": "Product or Service / उत्पाद",
+            "width": 6,
+            "height": 2,
+            "placeholder": "What do you make or sell?/आप क्या बनाती या बेचती हैं?"
+        },
+        {
+            "x": 0,
+            "y": 12,
+            "type": "text-input",
+            "title": "Selling Price / मूल्य",
+            "width": 6,
+            "height": 2,
+            "placeholder": "What price do you charge? / आप सामान कितने रुपये में बेचती हैं?     जैसे: ₹50 प्रति पैकेट"
+        },
+        {
+            "x": 0,
+            "y": 16,
+            "type": "static-text",
+            "title": "What You Have ",
+            "width": 12,
+            "height": 2,
+            "content": "---\n## 🏠 Step 3 of 4 &nbsp;|&nbsp; चरण 3\n# What You Have / आपके पास क्या है?\n*Your resources and challenges — आपके साधन और चुनौतियाँ*\n\n---"
+        },
+        {
+            "x": 0,
+            "y": 18,
+            "type": "text-input",
+            "title": "Resources Available / उपलब्ध साधन",
+            "width": 6,
+            "height": 3,
+            "placeholder": "Example: Kitchen, Smartphone, WhatsApp, SHG, Raw materials, Transport उदाहरण: रसोई, स्मार्टफोन, व्हाट्सऐप, स्वयं सहायता समूह (SHG), कच्चा सामान, परिवहन  "
+        },
+        {
+            "x": 6,
+            "y": 18,
+            "type": "text-input",
+            "title": "Limitations/ चुनौतियाँ",
+            "width": 6,
+            "height": 3,
+            "placeholder": "Example: Limited money, No storage, No laptop, Poor internet   उदाहरण: कम पैसे, सामान रखने की जगह नहीं, लैपटॉप नहीं, इंटरनेट की समस्या"
+        },
+        {
+            "x": 0,
+            "y": 21,
+            "type": "static-text",
+            "title": "Language",
+            "width": 12,
+            "height": 3,
+            "content": "---\n## 🌐 Step 4 of 4 &nbsp;|&nbsp; चरण 4\n# Language & Notes / भाषा चुनें\n*Choose the language for your AI report — अपनी पसंदीदा भाषा चुनें*\n\n⭐ **Choose Simple Hindi** if you prefer easy language &nbsp;|&nbsp; **Simple Hindi** चुनें अगर आसान भाषा चाहिए\n\n---"
+        },
+        {
+            "x": 0,
+            "y": 23,
+            "type": "select",
+            "title": "Preferred Language /  भाषा",
+            "width": 6,
+            "height": 2,
+            "options": [
+                "English",
+                "Hindi",
+                "Simple Hindi"
+            ],
+            "defaultValue": "English"
+        },
+        {
+            "x": 6,
+            "y": 23,
+            "type": "text-input",
+            "title": "Additional Notes / अतिरिक्त जानकारी ",
+            "width": 6,
+            "height": 2,
+            "isOptional": true,
+            "placeholder": "Anything else? (Optional - you can skip this) / क्या आप कुछ और बताना चाहती हैं?  (इसे खाली भी छोड़ सकती हैं)"
+        },
+        {
+            "x": 0,
+            "y": 25,
+            "type": "static-text",
+            "title": "Your Business Report",
+            "width": 12,
+            "height": 3,
+            "content": "---\n# 📊 Your AI Business Report / आपका AI व्यापार विश्लेषण\n\n🎉 **Profile complete! Scroll down to see your personalised analysis.**\n\n*बधाई हो! नीचे स्क्रॉल करें और अपना व्यक्तिगत व्यापार विश्लेषण देखें।*\n\n⬇️ &nbsp; Opportunity → Demand → Profit → Where to Sell → Risks → Support → Your Decision\n\n---"
+        },
+        {
+            "x": 0,
+            "y": 28,
+            "type": "inferred-text",
+            "title": "Your Business Opportunity / आपका व्यापार अवसर",
+            "width": 12,
+            "height": 8,
+            "prompt": "You are the Opportunity Discovery assistant inside Nari Entrepreneur.\n\nAnalyze the following entrepreneur profile:\n\nName: [Name / नाम]\nAge: [Age / उम्र]\nLocation: [Location / स्थान 📍]\nProduct or Service: [Product or Service / उत्पाद]\nExperience: [Experience / अनुभव]\nCurrent Production: [Current Production / उत्पादन]\nCurrent Customers: [Current Customers / ग्राहक]\nSelling Price: [Selling Price / मूल्य]\nBusiness Goal: [Business Goal / कारोबार का लक्ष्य]\nResources Available: [Resources Available / उपलब्ध साधन]\nLimitations: [Limitations/ चुनौतियाँ]\nPreferred Language: [Preferred Language /  भाषा]\nAdditional Notes: [Additional Notes / अतिरिक्त जानकारी ]\n\nBased ONLY on the information supplied by the entrepreneur, identify ONE specific and realistic business opportunity.\n\nYour response must include:\n\n1. PRODUCT/SERVICE — What exactly can she offer?\n2. TARGET CUSTOMER — Who is most likely to buy?\n3. MARKET — Where can she reach these customers?\n4. OPPORTUNITY — Why does this opportunity fit her existing skills, experience and resources?\n\nDo not create a completely new business unrelated to her experience.\n\nClearly distinguish:\nFACTS — directly supplied by the entrepreneur.\nOPPORTUNITY — inferred from those facts.\nASSUMPTION — something that still needs to be tested.\n\nDo not claim that customers will buy unless there is evidence.\n\nRespond in the language selected by the entrepreneur.\nIf Simple Hindi is selected, use short sentences, simple words and avoid business jargon.\n\nKeep the answer concise and practical.",
+            "parameters": {
+                "model": "bedrock-anthropic.claude-4-5-haiku-v1-0",
+                "tools": [
+                    "webSearch"
+                ],
+                "temperature": 0
+            },
+            "placeholder": "Fill in your profile above to discover your business opportunity..."
+        },
+        {
+            "x": 0,
+            "y": 36,
+            "type": "inferred-text",
+            "title": "Will Customers Actually Buy / क्या ग्राहक सच में खरीदेंगे? 🛍️",
+            "width": 12,
+            "height": 8,
+            "prompt": "You are the Demand Validation assistant inside Nari Entrepreneur.\n\nAnalyze the following information:\n\nEntrepreneur Profile:\nName: [Name / नाम]\nAge: [Age / उम्र]\nLocation: [Location / स्थान 📍]\nProduct or Service: [Product or Service / उत्पाद]\nExperience: [Experience / अनुभव]\nCurrent Production: [Current Production / उत्पादन]\nCurrent Customers: [Current Customers / ग्राहक]\nSelling Price: [Selling Price / मूल्य]\nBusiness Goal: [Business Goal / कारोबार का लक्ष्य]\nResources Available: [Resources Available / उपलब्ध साधन]\nLimitations: [Limitations/ चुनौतियाँ]\nPreferred Language: [Preferred Language /  भाषा]\nAdditional Notes: [Additional Notes / अतिरिक्त जानकारी ]\n\nOpportunity Discovery:\n[Your Business Opportunity / आपका व्यापार अवसर]\n\nCreate a practical 14-day demand validation plan.\n\nThe goal is to find out whether REAL CUSTOMERS WILL PAY, not simply whether they like the product or idea.\n\nGive exactly 3 concrete actions.\n\nFor each action provide:\n\nACTION:\nWHO TO TEST WITH:\nNUMBER OF CUSTOMERS/UNITS:\nWHAT TO RECORD:\nPOSITIVE SIGNAL:\n\nUse low-cost methods suitable for a rural entrepreneur, such as:\n- Paid pre-orders\n- Small sample-and-sell tests\n- WhatsApp orders\n- Approaching nearby retailers\n- Local market testing\n- Community events\n\nDo not treat compliments, likes or verbal interest as proof of demand.\n\nClearly label anything uncertain as ASSUMPTION.\n\nRespond in the entrepreneur's selected language.\nIf Simple Hindi is selected, use short, everyday sentences.\n\nMake the plan practical enough to execute within 14 days.",
+            "parameters": {
+                "model": "bedrock-anthropic.claude-4-5-haiku-v1-0",
+                "temperature": 0
+            },
+            "placeholder": "Your demand validation plan will appear here..."
+        },
+        {
+            "x": 0,
+            "y": 44,
+            "type": "inferred-text",
+            "title": "Know Your Real Profit / अपना असली मुनाफ़ा जानें",
+            "width": 12,
+            "height": 8,
+            "prompt": "You are the Unit Economics assistant inside Nari Entrepreneur.\n\nAnalyze the following entrepreneur profile:\n\nName: [Name / नाम]\nAge: [Age / उम्र]\nLocation: [Location / स्थान 📍]\nProduct or Service: [Product or Service / उत्पाद]\nExperience: [Experience / अनुभव]\nCurrent Production: [Current Production / उत्पादन]\nCurrent Customers: [Current Customers / ग्राहक]\nSelling Price: [Selling Price / मूल्य]\nBusiness Goal: [Business Goal / कारोबार का लक्ष्य]\nResources Available: [Resources Available / उपलब्ध साधन]\nLimitations: [Limitations/ चुनौतियाँ]\nPreferred Language: [Preferred Language /  भाषा]\nAdditional Notes: [Additional Notes / अतिरिक्त जानकारी ]\n\nCalculate the real cost and potential earnings for ONE unit of the entrepreneur's product or service.\n\nConsider all relevant costs, including:\n- Raw materials\n- Entrepreneur's labour/time\n- Packaging\n- Transport\n- Storage\n- Spoilage/wastage\n- Electricity/fuel\n- Retailer or intermediary commission\n- Platform fees\n- Credit/payment delays\n- Other directly relevant costs\n\nPresent the result as:\nCOST ITEM | CALCULATION | COST PER UNIT\n\nThen calculate:\n1. Total cost per unit\n2. Current selling price\n3. Revenue per unit\n4. Profit/contribution per unit\n5. Profit margin %\n6. Break-even quantity, if sufficient information is available\n\nIMPORTANT:\nSeparate:\nFACT = supplied by entrepreneur\nASSUMPTION = estimated by the system\nMISSING EVIDENCE = information that is required but unavailable\n\nNever present an assumption as verified market information.\nIf a cost is unknown, do not silently invent it.\nShow the formula and calculation used for every important number.\n\nRespond in the entrepreneur's selected language.\nIf Simple Hindi is selected, explain calculations using simple everyday words.",
+            "parameters": {
+                "model": "bedrock-anthropic.claude-4-5-haiku-v1-0",
+                "temperature": 0
+            },
+            "placeholder": "Your unit economics breakdown will appear here..."
+        },
+        {
+            "x": 0,
+            "y": 52,
+            "type": "inferred-text",
+            "title": "Where Should You Sell / आप कहाँ बेचें?",
+            "width": 12,
+            "height": 8,
+            "prompt": "You are the Route-to-Market assistant inside Nari Entrepreneur.\n\nAnalyze the following information:\n\nEntrepreneur Profile:\nName: [Name / नाम]\nAge: [Age / उम्र]\nLocation: [Location / स्थान 📍]\nProduct or Service: [Product or Service / उत्पाद]\nExperience: [Experience / अनुभव]\nCurrent Production: [Current Production / उत्पादन]\nCurrent Customers: [Current Customers / ग्राहक]\nSelling Price: [Selling Price / मूल्य]\nBusiness Goal: [Business Goal / कारोबार का लक्ष्य]\nResources Available: [Resources Available / उपलब्ध साधन]\nLimitations: [Limitations/ चुनौतियाँ]\nPreferred Language: [Preferred Language /  भाषा]\nAdditional Notes: [Additional Notes / अतिरिक्त जानकारी ]\n\nOpportunity Discovery:\n[Your Business Opportunity / आपका व्यापार अवसर]\n\nUnit Economics:\n[Know Your Real Profit / अपना असली मुनाफ़ा जानें]\n\nCompare the most realistic customer channels for this entrepreneur.\n\nConsider where relevant:\n1. Village/community customers\n2. Nearby town/market\n3. Local retailers\n4. Institutions\n5. SHG/cooperative/aggregator\n6. WhatsApp/social commerce\n7. Online marketplace\n\nFor each suitable channel evaluate:\nCHANNEL | MARGIN IMPACT | VOLUME POTENTIAL | PAYMENT DELAY | LOGISTICS REQUIRED | DIGITAL SKILL REQUIRED | INTERMEDIARY DEPENDENCE | ADVANTAGE | RISK\n\nPresent the comparison as a simple table.\n\nThen recommend EXACTLY ONE primary channel.\n\nThe recommendation must consider:\n- Entrepreneur's goal\n- Available resources\n- Capital\n- Digital access\n- Production capacity\n- Unit economics\n- Payment risk\n- Logistics\n\nDo not automatically choose the channel with the largest potential market.\nChoose the channel that is most practical at the entrepreneur's current stage.\n\nRespond in the entrepreneur's selected language.\nIf Simple Hindi is selected, use simple everyday words.",
+            "parameters": {
+                "model": "bedrock-anthropic.claude-4-5-haiku-v1-0",
+                "temperature": 0
+            },
+            "placeholder": "Your route to market analysis will appear here..."
+        },
+        {
+            "x": 0,
+            "y": 60,
+            "type": "inferred-text",
+            "title": "What Could Go Wrong / \tकिन बातों का ध्यान रखें ",
+            "width": 12,
+            "height": 8,
+            "prompt": "You are the Risk and Resilience assistant inside Nari Entrepreneur.\n\nAnalyze the following information:\n\nEntrepreneur Profile:\nName: [Name / नाम]\nAge: [Age / उम्र]\nLocation: [Location / स्थान 📍]\nProduct or Service: [Product or Service / उत्पाद]\nExperience: [Experience / अनुभव]\nCurrent Production: [Current Production / उत्पादन]\nCurrent Customers: [Current Customers / ग्राहक]\nSelling Price: [Selling Price / मूल्य]\nBusiness Goal: [Business Goal / कारोबार का लक्ष्य]\nResources Available: [Resources Available / उपलब्ध साधन]\nLimitations: [Limitations/ चुनौतियाँ]\nPreferred Language: [Preferred Language /  भाषा]\nAdditional Notes: [Additional Notes / अतिरिक्त जानकारी ]\n\nOpportunity Discovery:\n[Your Business Opportunity / आपका व्यापार अवसर]\n\nUnit Economics:\n[Know Your Real Profit / अपना असली मुनाफ़ा जानें]\n\nRoute to Market:\n[Where Should You Sell / आप कहाँ बेचें?]\n\nIdentify the 4–5 most important risks for THIS specific entrepreneur.\n\nConsider relevant risks such as:\n- Seasonality\n- Spoilage\n- Demand uncertainty\n- Transport\n- Payment delays\n- Limited working capital\n- Household and business money being mixed\n- Dependence on one buyer\n- Dependence on an intermediary\n- Poor internet connectivity\n- Limited production capacity\n- Raw material availability\n\nDo not give generic business risks.\n\nFor each risk provide:\nRISK:\nWHY IT MATTERS:\nPRACTICAL MITIGATION:\n\nThe mitigation must be low-cost and realistic for this entrepreneur.\n\nRespond in the entrepreneur's selected language.\nIf Simple Hindi is selected, use short and simple sentences.",
+            "parameters": {
+                "model": "bedrock-anthropic.claude-4-5-haiku-v1-0",
+                "temperature": 0
+            },
+            "placeholder": "Your risk and resilience scan will appear here..."
+        },
+        {
+            "x": 0,
+            "y": 68,
+            "type": "inferred-text",
+            "title": "What Support Could Help / किस मदद की ज़रूरत है",
+            "width": 12,
+            "height": 8,
+            "prompt": "You are the Support Pathway assistant inside Nari Entrepreneur.\n\nAnalyze the following information:\n\nEntrepreneur Profile:\nName: [Name / नाम]\nAge: [Age / उम्र]\nLocation: [Location / स्थान 📍]\nProduct or Service: [Product or Service / उत्पाद]\nExperience: [Experience / अनुभव]\nCurrent Production: [Current Production / उत्पादन]\nCurrent Customers: [Current Customers / ग्राहक]\nSelling Price: [Selling Price / मूल्य]\nBusiness Goal: [Business Goal / कारोबार का लक्ष्य]\nResources Available: [Resources Available / उपलब्ध साधन]\nLimitations: [Limitations/ चुनौतियाँ]\nPreferred Language: [Preferred Language /  भाषा]\nAdditional Notes: [Additional Notes / अतिरिक्त जानकारी ]\n\nRoute to Market:\n[Where Should You Sell / आप कहाँ बेचें?]\n\nRisk Scan:\n[What Could Go Wrong / \tकिन बातों का ध्यान रखें ]\n\nIdentify the TYPE of support this entrepreneur should explore next.\n\nPossible categories include:\n- Training\n- Market linkage\n- Equipment\n- Working capital\n- Collective procurement\n- Packaging support\n- Digital/payment support\n- Formal credit\n- Business bookkeeping support\n\nFor each recommended support type explain:\n1. What support is needed.\n2. Why it is relevant.\n3. What business problem it could solve.\n\nIMPORTANT VERIFICATION RULE:\nDo NOT name a government scheme, lender, grant, subsidy or programme unless current eligibility, geographic applicability and source have been verified.\n\nIf current verification is unavailable, explicitly state:\n\"Specific programme verification is not available in this prototype.\"\n\nRecommend only the TYPE of support required.\n\nNever invent:\n- Scheme names\n- Eligibility rules\n- Grant amounts\n- Loan terms\n- Programme availability\n\nRespond in the entrepreneur's selected language.\nIf Simple Hindi is selected, use simple everyday words.",
+            "parameters": {
+                "model": "bedrock-anthropic.claude-4-5-haiku-v1-0",
+                "temperature": 0
+            },
+            "placeholder": "Your support pathway will appear here..."
+        },
+        {
+            "x": 0,
+            "y": 76,
+            "type": "static-text",
+            "title": "Verification Notice",
+            "width": 12,
+            "height": 3,
+            "content": "### ⚠️ VERIFICATION NOTICE\n\nNari Entrepreneur does not currently have live verified access to government schemes, lender terms, eligibility conditions or programme availability.\n\nThis prototype therefore recommends only the **TYPE of support** that may be useful. A production version would connect to verified and regularly updated sources before recommending a specific programme."
+        },
+        {
+            "x": 0,
+            "y": 79,
+            "type": "inferred-text",
+            "title": "Your Next Business Decision / \tआपका अगला फैसला",
+            "width": 12,
+            "height": 10,
+            "prompt": "You are the final decision engine of Nari Entrepreneur.\n\nSynthesize the following information:\n\nEntrepreneur Profile:\nName: [Name / नाम]\nAge: [Age / उम्र]\nLocation: [Location / स्थान 📍]\nProduct or Service: [Product or Service / उत्पाद]\nExperience: [Experience / अनुभव]\nCurrent Production: [Current Production / उत्पादन]\nCurrent Customers: [Current Customers / ग्राहक]\nSelling Price: [Selling Price / मूल्य]\nBusiness Goal: [Business Goal / कारोबार का लक्ष्य]\nResources Available: [Resources Available / उपलब्ध साधन]\nLimitations: [Limitations/ चुनौतियाँ]\nPreferred Language: [Preferred Language /  भाषा]\nAdditional Notes: [Additional Notes / अतिरिक्त जानकारी ]\n\nOpportunity Discovery:\n[Your Business Opportunity / आपका व्यापार अवसर]\n\nDemand Validation:\n[Will Customers Actually Buy / क्या ग्राहक सच में खरीदेंगे? 🛍️]\n\nUnit Economics:\n[Know Your Real Profit / अपना असली मुनाफ़ा जानें]\n\nRoute to Market:\n[Where Should You Sell / आप कहाँ बेचें?]\n\nRisk Scan:\n[What Could Go Wrong / \tकिन बातों का ध्यान रखें ]\n\nSupport Pathway:\n[What Support Could Help / किस मदद की ज़रूरत है]\n\nYour task is to make ONE practical, evidence-based and defensible recommendation.\n\nThe final decision MUST be exactly ONE of:\nPROCEED | PILOT | MODIFY | COLLABORATE | TEST FURTHER | PAUSE\n\nUse these EXACT headings:\n\n## Facts supplied by entrepreneur\nList only facts directly supplied by the entrepreneur.\n\n## Verified external information\nIf no verified external information is available, write:\n\"None — not available in this prototype.\"\nDo not present assumptions as verified information.\n\n## Assumptions made\nList every important assumption used in the analysis.\n\n## Calculations used\nShow important cost calculations, selling price, profit, margin, break-even.\n\n## Missing evidence\nList the most important evidence that is still required.\n\n## Reasoning\nExplain how the facts, evidence, assumptions, calculations and risks lead to the recommendation.\n\n## Final decision\nGive EXACTLY ONE: Proceed / Pilot / Modify / Collaborate / Test further / Pause\nThen explain the decision in 2–3 simple sentences.\n\nDo not give multiple final decisions.\n\nThe decision must be realistic for the entrepreneur's resources, financial situation, experience, digital access, location and stated goal.\n\nRespond in the entrepreneur's selected language.\nIf Simple Hindi is selected, use short sentences and everyday words.",
+            "parameters": {
+                "model": "bedrock-anthropic.claude-4-5-sonnet-v1-0",
+                "temperature": 0
+            },
+            "placeholder": "Your evidence-based business decision will appear here..."
+        },
+        {
+            "x": 0,
+            "y": 89,
+            "type": "inferred-text",
+            "title": "Your Rural Venture Decision Card",
+            "width": 12,
+            "height": 12,
+            "prompt": "You are the Decision Card generator for Nari Entrepreneur.\n\nUsing the following information, create a concise ONE-PAGE NARI ENTREPRENEUR RURAL VENTURE DECISION CARD:\n\nEntrepreneur Profile:\nName: [Name / नाम]\nAge: [Age / उम्र]\nLocation: [Location / स्थान 📍]\nProduct or Service: [Product or Service / उत्पाद]\nExperience: [Experience / अनुभव]\nCurrent Production: [Current Production / उत्पादन]\nCurrent Customers: [Current Customers / ग्राहक]\nSelling Price: [Selling Price / मूल्य]\nBusiness Goal: [Business Goal / कारोबार का लक्ष्य]\nResources Available: [Resources Available / उपलब्ध साधन]\nLimitations: [Limitations/ चुनौतियाँ]\nPreferred Language: [Preferred Language /  भाषा]\nAdditional Notes: [Additional Notes / अतिरिक्त जानकारी ]\n\nDecision Engine:\n[Your Next Business Decision / \tआपका अगला फैसला]\n\nUnit Economics:\n[Know Your Real Profit / अपना असली मुनाफ़ा जानें]\n\nRoute to Market:\n[Where Should You Sell / आप कहाँ बेचें?]\n\nRisk Scan:\n[What Could Go Wrong / \tकिन बातों का ध्यान रखें ]\n\nUse these EXACT sections:\n\n## 🌸 Entrepreneur & Business Context\n- Name, Age, Location, Experience, Product/service, Current scale, Business goal\n\n## 👥 Customer & Problem\n- Target customer, Customer need/problem\n\n## 📊 Evidence Collected\n- Existing business evidence, Customer evidence, Demand validation evidence\n- Clearly separate evidence from assumptions.\n\n## ❓ Key Assumptions Still Untested\nList the most important assumptions.\n\n## 💰 Cost, Price & Expected Margin\n- Cost per unit, Selling price, Expected profit/contribution, Expected margin, Relevant commission/channel costs\n\n## ⚖️ Break-Even Estimate\nGive the break-even quantity where sufficient information exists. Clearly state assumptions.\n\n## 🛣️ Recommended Sales Channel\nGive EXACTLY ONE recommended channel and one short reason.\n\n## ⚠️ Principal Risks\nTop 3 risks and one mitigation for each.\n\n## ✅ Decision\nGive EXACTLY ONE: PROCEED / PILOT / MODIFY / COLLABORATE / TEST FURTHER / PAUSE\n\n## 📅 30-Day Action Plan\nGive exactly 5–6 practical actions that are specific, low-cost, realistic, evidence-generating, and achievable.\n\nDo not introduce facts that were not supplied or verified.\nKeep the entire card concise. Use short bullet points rather than paragraphs.\n\nRespond in the entrepreneur's selected language.\nIf Simple Hindi is selected, use simple everyday language.",
+            "parameters": {
+                "model": "bedrock-anthropic.claude-4-5-sonnet-v1-0"
+            },
+            "placeholder": "Your complete Rural Venture Decision Card will appear here..."
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "type": "image",
+            "title": "NariPrenaur",
+            "width": 6,
+            "height": 6,
+            "parameters": {
+                "model": "bedrock-stability.stable-image-core-v1-1"
+            },
+            "imageDescription": "Create a premium, realistic website hero image for \"Nari Pro\", a digital entrepreneurship platform empowering rural women in India.\n\nShow a confident rural Indian woman entrepreneur in the center, wearing a simple elegant traditional outfit, using a smartphone to manage her small business. Around her, naturally integrate visual elements representing her entrepreneurial journey: handmade local products, agricultural and artisan goods, product packaging, digital marketplace orders, customers, secure digital payments, transportation and delivery logistics, access to business finance, and community support.\n\nSubtly represent AI assistance through a modern digital interface on the smartphone, suggesting voice-based guidance, regional-language support, market insights, business recommendations, and financial guidance. The AI should feel helpful and trustworthy, not futuristic or robotic.\n\nInclude a warm rural Indian setting in the background with a village marketplace, small home-based enterprise, greenery, and local community, while keeping the woman and her business as the visual focus.\n\nThe composition should communicate \"local skills → digital access → sustainable business → financial independence.\"\n\nStyle: realistic editorial photography, premium startup website aesthetic, warm natural lighting, sophisticated composition, authentic Indian rural environment, empowering and optimistic mood, subtle technology integration, clean visual hierarchy, high detail, professional brand campaign quality.\n\nUse a wide 16:9 composition, with the main subject positioned slightly to one side and clean negative space on the opposite side for website headline and CTA text.\n\nAvoid: cartoon style, excessive technology graphics, futuristic sci-fi elements, generic corporate office settings, excessive icons, text inside the image, logos, watermarks, overly staged poses, and stereotypical portrayals of rural poverty."
+        }
+    ]
+}
